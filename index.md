@@ -32,7 +32,7 @@ title: Yuhan Chi
 
 -  复旦大学附属中学<img src="https://chi-shan0707.github.io/icons/fdfzlogo.jpg" alt="FDFZ" width="36" style="vertical-align:middle; margin-right:8px;" />  [官网](https://www.fdfz.cn/)
 
--  复旦大学数学科学学院<img src="https://chi-shan0707.github.io/icons/fudanlogo.jpg" alt="Fudan Math" width="36" style="vertical-align:middle; margin-right:8px;" /> 复旦大学数学系 — [官网](https://math.fudan.edu.cn/)
+-  复旦大学数学科学学院<img src="https://chi-shan0707.github.io/icons/fudanlogo.png" alt="Fudan Math" width="36" style="vertical-align:middle; margin-right:8px;" /> 复旦大学数学系 — [官网](https://math.fudan.edu.cn/)
 
 ---
 
