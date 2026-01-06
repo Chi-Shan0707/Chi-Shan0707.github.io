@@ -1,2 +1,5 @@
 theme: minima
 plugins: []
+
+sass:
+  sass_dir: assets/css
