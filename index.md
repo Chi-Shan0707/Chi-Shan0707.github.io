@@ -2,6 +2,9 @@
 title: Yuhan Chi
 ---
 
+<!-- 引用自定义样式（编译后位于 /assets/css/style.css） -->
+<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
 <div align="center">
 
 <h1>复旦大学数学系在读</h1>
