@@ -30,10 +30,8 @@ title: Yuhan Chi
 
 ### Education
 
--  复旦大学附属中学<img src="https://chi-shan0707.github.io/icons/fdfzlogo.jpg" alt="FDFZ" width="36" style="vertical-align:middle; margin-right:8px;" />  [官网](https://www.fdfz.cn/)
+- <img src="icons/fdfzlogo.jpg" alt="FDFZ" width="36" style="vertical-align:middle; margin-right:8px;" /> 复旦大学附属中学 — [官网](https://www.fdfz.cn/)
 
--  复旦大学数学科学学院<img src="https://chi-shan0707.github.io/icons/fudanlogo.png" alt="Fudan Math" width="36" style="vertical-align:middle; margin-right:8px;" /> 复旦大学数学系 — [官网](https://math.fudan.edu.cn/)
+- <img src="icons/fudanlogo.png" alt="Fudan Math" width="36" style="vertical-align:middle; margin-right:8px;" /> 复旦大学数学科学学院 — [官网](https://math.fudan.edu.cn/)
 
 ---
-
-欢迎阅读我的主页。
