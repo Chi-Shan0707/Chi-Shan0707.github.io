@@ -7,7 +7,25 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+# 关于 — Yuhan Chi
+
+我目前在读于 复旦大学数学科学学院（复旦大学数学系）。
+
+- 地点：China / Shanghai（31.2304°N, 121.4737°E）
+- GitHub： [Chi-Shan0707](https://github.com/Chi-Shan0707)
+
+<p><em>云来山更佳，云去山如画；山因云晦明，云共山高下。</em></p>
+
+### 教育
+
+- <img src="/icons/fdfzlogo.jpg" alt="FDFZ" width="36" style="vertical-align:middle; margin-right:8px;" /> 复旦大学附属中学 — [官网](https://www.fdfz.cn/)
+- <img src="/icons/fudanlogo.png" alt="Fudan Math" width="36" style="vertical-align:middle; margin-right:8px;" /> 复旦大学数学科学学院 — [官网](https://math.fudan.edu.cn/)
+
+联系方式与自我介绍占位：在此处补充你的教育、研究方向、邮箱或其它联系方式。
+
+---
+
+<!-- 以下为模板说明（保留以便参考） -->
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
