@@ -23,21 +23,18 @@ title: Yuhan Chi
 
 ---
 
-## 自我介绍
-
-在这里写下你的自我介绍（例如教育、研究方向、联系方式等）。
-
-- 教育：
-- 研究方向：
-- 联系方式：
+## About
 
 
-### 教育
 
-- 复旦大学附属中学 — [官网](https://www.fdfz.cn/)
-<img src="icons/fdfzlogo.jpg" alt="FDFZ" width="36" style="vertical-align:middle; margin-right:8px;" /> (https://www.fdfz.cn/)
 
-<img src="icons/fudanshuxuelogo.jpg" alt="Fudan Math" width="36" style="vertical-align:middle; margin-right:8px;" /> (https://math.fudan.edu.cn/)
+### Education
+
+- 
+<img src="https://chi-shan0707.github.io/icons/fdfzlogo.jpg" alt="FDFZ" width="36" style="vertical-align:middle; margin-right:8px;" /> 复旦大学附属中学 — [官网](https://www.fdfz.cn/)
+
+- 
+<img src="https://chi-shan0707.github.io/icons/fudanlogo.jpg" alt="Fudan Math" width="36" style="vertical-align:middle; margin-right:8px;" /> 复旦大学数学系 — [官网](https://math.fudan.edu.cn/)
 
 ---
 
