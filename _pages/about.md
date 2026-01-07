@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# About Yuhan Chi
+## About Yuhan Chi
 
 
 
@@ -19,12 +19,14 @@ redirect_from:
 <p>
 
 
-<p><em>云来山更佳，云去山如画；山因云晦明，云共山高下。</em></p>
 
-## Education
+
+### Education
 
 - <img src="/icons/fdfzlogo.jpg" alt="FDFZ" width="64" style="vertical-align:middle; margin-right:8px;" /> 复旦大学附属中学 — [官网](https://www.fdfz.cn/)
 - <img src="/icons/fudanlogo.png" alt="Fudan Math" width="64" style="vertical-align:middle; margin-right:8px;" /> 复旦大学数学科学学院 — [官网](https://math.fudan.edu.cn/)
 
 
+
+*云来山更佳，云去山如画；山因云晦明，云共山高下。*
 ---
