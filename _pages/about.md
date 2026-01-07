@@ -14,11 +14,8 @@ redirect_from:
 - location: China / Shanghai（31.2304°N, 121.4737°E）
 - GitHub： [Chi-Shan0707](https://github.com/Chi-Shan0707)
 
-<p>
 我目前在读于复旦大学数学科学学院。一直在坚持自学计算机当中一些有意思的内容。
-<p>
-
-
+希望能找到自己真正想研究的东西。
 
 
 ### Education
