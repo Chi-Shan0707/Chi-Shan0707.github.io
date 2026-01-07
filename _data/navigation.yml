@@ -10,6 +10,8 @@
 main:
   - title: "Plan"
     url: /plan/
+  - title: "Guide"
+    url: /markdown/
   # - title: "Publications"
   #   url: /publications/
 
@@ -31,5 +33,4 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+ 
