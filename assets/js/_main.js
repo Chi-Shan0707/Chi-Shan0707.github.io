@@ -39,10 +39,10 @@ let setTheme = (theme) => {
   }
 };
 
-// Toggle the theme manually
+// Toggle the theme manually (force dark-only)
 var toggleTheme = () => {
-  const current_theme = $("html").attr("data-theme");
-  const new_theme = current_theme === "dark" ? "light" : "dark";
+  // Always set dark theme
+  const new_theme = "dark";
   localStorage.setItem("theme", new_theme);
   setTheme(new_theme);
 };
@@ -90,8 +90,8 @@ $(document).ready(function () {
   const scssLarge = 925;          // pixels, from /_sass/_themes.scss
   const scssMastheadHeight = 70;  // pixels, from the current theme (e.g., /_sass/theme/_default.scss)
 
-  // If the user hasn't chosen a theme, follow the OS preference
-  setTheme();
+  // Force the site to use dark mode only
+  setTheme('dark');
   window.matchMedia('(prefers-color-scheme: dark)')
         .addEventListener("change", (e) => {
           if (!localStorage.getItem("theme")) {
