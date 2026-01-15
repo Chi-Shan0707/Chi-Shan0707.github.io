@@ -35,7 +35,7 @@ redirect_from:
 ### Now
 
 - I'm learning [UCB-CS170](https://github.com/Chi-Shan0707/Sample-Java)
-- I'm participating in [kaggle-santa2025](https://github.com/Chi-Shan0707/KaggleCompetitions)
+- I'm participating in [AI Hackathon](https://mp.weixin.qq.com/s/qaAUdlXX2Jne9lAdGLoJzg). My organization is [HacKawayi](https://github.com/HacKawayi)
 
 
 ***
@@ -49,3 +49,4 @@ redirect_from:
 
 *云来山更佳，云去山如画；山因云晦明，云共山高下。*
 ---
+https://github.com/Chi-Shan0707/KaggleCompetitions
