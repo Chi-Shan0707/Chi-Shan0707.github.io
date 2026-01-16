@@ -35,7 +35,7 @@ redirect_from:
 ### Now
 
 - I'm learning [UCB-CS170](https://github.com/Chi-Shan0707/Sample-Java)
-- I'm participating in [AI Hackathon](https://mp.weixin.qq.com/s/qaAUdlXX2Jne9lAdGLoJzg). My organization is [HacKawayi](https://github.com/HacKawayi)
+- I'm participating in [AI Hackathon](https://mp.weixin.qq.com/s/qaAUdlXX2Jne9lAdGLoJzg). My organization is [HacKawayi](https://github.com/HacKawayi). I'm building a game-website, so I'm also trying something like MongoDB.
 
 
 ***
