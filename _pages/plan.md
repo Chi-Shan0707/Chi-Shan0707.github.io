@@ -12,6 +12,6 @@ redirect_from:
 - Algorithms: Delve into Randomized Algorithms before the Spring Festival
 - Reinforcement Learning: Try to read books on its mathematical theorem and follow code practice online.
 - Diffusion Model: Learn basic comcepts and theories
-
+- LLM: Follow the hands-on-LLM tutorial by SJTU.
 
 ---

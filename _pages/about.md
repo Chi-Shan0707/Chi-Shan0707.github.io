@@ -34,9 +34,9 @@ redirect_from:
 
 ### Now
 
-- I'm learning [UCB-CS170](https://github.com/Chi-Shan0707/Sample-Java)
-- I'm participating in [AI Hackathon](https://mp.weixin.qq.com/s/qaAUdlXX2Jne9lAdGLoJzg). My organization is [HacKawayi](https://github.com/HacKawayi). I'm building a game-website, so I'm also trying something like MongoDB.
-
+- I'm reading LADR.
+- I'm learning the so-called *Advanced Algorithms* in[UCB-CS170](https://github.com/Chi-Shan0707/Sample-Java). More specifically, I focus on Randomized Algorithms.
+- I'm participating in [AI Hackathon](https://mp.weixin.qq.com/s/qaAUdlXX2Jne9lAdGLoJzg)and my organization is [HacKawayi](https://github.com/HacKawayi). We are setting up a new game, so I'm also trying something new like MongoDB.
 
 ***
 
