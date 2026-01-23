@@ -10,7 +10,8 @@ redirect_from:
 
 - Mathematical Analysis:  Preview concepts and techs and explore calculus evolutionary history through reading.
 - Advanced Algebra: Read LADR (QAQ).
-- Algorithms: Delve into Randomized Algorithms before the Spring Festival.
+- Algorithms: Delve into Randomized Algorithms.
+- Make projects.
 
 Maybe I had better try extensively in this vacation(instead of trying to wrestle with the theories?), so the following plans are unsure:
 

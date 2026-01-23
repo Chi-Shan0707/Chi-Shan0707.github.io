@@ -50,4 +50,3 @@ redirect_from:
 
 *云来山更佳，云去山如画；山因云晦明，云共山高下。*
 ---
-https://github.com/Chi-Shan0707/KaggleCompetitions
