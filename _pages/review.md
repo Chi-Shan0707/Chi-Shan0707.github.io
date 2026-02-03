@@ -22,7 +22,11 @@ redirect_from:
 3. 看看每个库的版本
 
 
-
+## HacKawayi
+1. 风格的统一
+2. workspace, codespace
+3. 版本dockerfile很重要
+4. localstorage存登录信息
 
 
 ## baseball：
@@ -30,5 +34,12 @@ redirect_from:
 2. 保持耐心
 3. 现实数据往往很差劲
 
+## 概率论
+1. 专心阅读
+2. 合理使用ai，但不要完全依赖，完全信任
+
+## 论文
+1. 参数
+2. 专有名词
 
 ---
