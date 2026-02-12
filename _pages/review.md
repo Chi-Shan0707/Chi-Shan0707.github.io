@@ -264,4 +264,20 @@ redirect_from:
 6. 在线学习：考虑财富增量； 琴声不等式，凸函数， 伯努利不等式， 是全知的expert problems
 7. 静下心来 
 
+
+# 20260212
+
+## 之前为什么修不好
+
+| 次数 | 我做了什么 | 为什么无效 |
+|------|-----------|-----------|
+| 第1次 | 在 forward 中对 delta 做 `.to(W_base.dtype)` | **只转了 delta，没转 x**。`x` 是 bfloat16（模型以 `torch_dtype=bfloat16` 加载），`W_base` 从 `dequantize_4bit` 返回 float32，`F.linear(x, W_base)` 直接炸 |
+| 第2次 | 在 `model.generate()` 前对 inputs 做 `.to(float32)` | **完全无效**。tokenizer 输出只有 `input_ids`（int64）和 `attention_mask`（int64），没有 float 张量可转。真正引发错误的是模型内部激活值的 dtype |
+
+## 这次的根本修复
+
+问题核心：`x`（激活值，bfloat16）和 `W_base`（反量化权重，float32）dtype 不一致。
+
+修复策略：在 `TinyLoRALinear.forward()` 中，以 `W_base` 的 dtype 为唯一基准（`compute_dtype`），**所有参与 matmul 的张量（x、U、S、Vh、P、global_v、delta）全部显式转为同一 dtype**，最后再转回原始 dtype 输出。
+
 ---

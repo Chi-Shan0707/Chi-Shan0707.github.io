@@ -15,6 +15,12 @@ redirect_from:
 - I’m a freshman
 
 我目前在读于复旦大学数学科学学院。同时一直在坚持自学计算机当中一些有意思的内容。<br>
+最近做了不少有意思的东西<br>
+1. 数个kaggle [repo link](https://github.com/Chi-Shan0707/KaggleCompetitions)比赛，广泛了解并使用了各种机器学习工具。
+2. 一个CNN+ResNet18，学好球坏球判断的模型[repo link](https://github.com/Chi-Shan0707/Baseball)
+3. 微调qwen三部曲: 从传统sft，到“复现”《learning to reason in 13 parameters》 论文（全github首发？），到更换数据集进一步优化(the latest repo)[https://github.com/Chi-Shan0707/TinyLoRA-Qwen-Coder]<br>
+4. 听了很多播客,捣鼓数学 (分析，代数， online algorithm),读iGPT论文<br>
+
 希望能找到自己真正想交叉，研究的东西。
 
 ***
@@ -32,12 +38,7 @@ redirect_from:
 ***
 
 
-### Now
 
-- I'm reading LADR.
-- I'm learning the so-called *Advanced Algorithms* in[UCB-CS170](https://github.com/Chi-Shan0707/Sample-Java). More specifically, I focus on Randomized Algorithms.
-- I'm participating in [AI Hackathon](https://mp.weixin.qq.com/s/qaAUdlXX2Jne9lAdGLoJzg)and my organization is [HacKawayi](https://github.com/HacKawayi). We are setting up a new game, so I'm also trying something new like MongoDB.
-- I'm doing...
 
 ***
 
