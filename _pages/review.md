@@ -280,4 +280,15 @@ redirect_from:
 
 修复策略：在 `TinyLoRALinear.forward()` 中，以 `W_base` 的 dtype 为唯一基准（`compute_dtype`），**所有参与 matmul 的张量（x、U、S、Vh、P、global_v、delta）全部显式转为同一 dtype**，最后再转回原始 dtype 输出。
 
+
+# 20260213
+
+1. 今日下午搞了agent，发现自己对于agent相关知识，如ollama，langchain不是很熟悉，之后可以更加多了解一点
+2. agent对于我这样的人布置也尚有难度，manus有必要？
+3. qwen那么大的模型也会写有大bug的程序（）
+4. 和魏教授细聊，继续保持兴趣，但是要加强数理基础，然后多找他聊天，然后稍微精简一下注意力
+5. 学习了在线算法，但晚上心有点燥动，关于电引入的思想能掌握，但是计算还没细算
+6. 该多陪陪外公，我有罪。
+7. 看数分吧
+
 ---

@@ -8,6 +8,8 @@ redirect_from:
 
 > 2026 Winter Vacation
 
+> Remark on 02/13: The plan covers too much. I need to narrow down a little.
+
 - Mathematical Analysis:  Preview concepts and techs and explore calculus evolutionary history through reading.
 - Advanced Algebra: Read LADR (QAQ).
 - Algorithms: Delve into Randomized Algorithms.
