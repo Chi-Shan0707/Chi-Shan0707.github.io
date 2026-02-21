@@ -433,10 +433,20 @@ pred_dict, h_dict, _ = model(static_data, manhole_dyn_t, cell_dyn_t, h_dict)
   - University of Washington 好像全是full term
   - george tech?看不懂界面 只用本科生？
   - austin  只有线上？
-  - 
+  - cornell  排除， 时间不行 但页面很赏心悦目
+  - 密歇根： 对中国很友好，但是项目太水了，甚至有中文版介绍就是hhh
 
 
 6. 房地产，胆子，地级市，县级市，区，钱，冠名费，大学教授，
 
+
+# 20260221
+1. 忙活一天，还是决定走  认知科学？
+2. 3weeks   brainworks+ 一个线上mooc
+3. 3weeks   mathematical tools
+4. 6weeks   4+1
+
+5. 使用了周云的那个东东，有空要研究 ffpmeg这些乱七八糟的工具到底是哪里来的
+6.
 
 ---
