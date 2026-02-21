@@ -339,6 +339,7 @@ redirect_from:
 3. 轻量级打印机：趣印，创业
 4. kaggle比赛反思
 5. 
+
 ```markdown
 这是一个在时间序列预测（尤其是使用 RNN/GRU/LSTM 以及你当前使用的 GRU-GNN 架构时）非常经典且关键的训练技巧。
 
@@ -376,6 +377,7 @@ redirect_from:
 **总结来说：**
 这个步骤的意思是，把一场漫长的洪水演进（400步），切分成许多个 20 步长的小片段。在每个小片段内部，模型进行完整的推演和反思（反向传播），学会了如何捕捉一段时间内的水流动态；而在片段与片段之间，模型只传递浓缩的“水位/水势记忆（隐状态的数值）”，不传递极其庞大的“反思过程（计算图）”，从而成功绕过了 GPU 显存不足的物理限制。
 ```
+
 5. 
 ```markdown
 这个步骤的核心思想是**“多任务学习（Multi-task Learning）”**和**“物理规律的强迫植入”**。
@@ -400,10 +402,9 @@ redirect_from:
 
 你看你在推理代码里是这么写的：
 
-```python
+
 pred_dict, h_dict, _ = model(static_data, manhole_dyn_t, cell_dyn_t, h_dict)
 
-```
 
 那个 `_` 就是模型吐出来的边流量预测（`cell_to_cell_flow`），你并没有把它塞回给模型去预测下一步。模型下一步的输入依然只依赖节点的预测值（`pred_dict`）和历史记忆（`h_dict`）。
 
@@ -423,10 +424,17 @@ pred_dict, h_dict, _ = model(static_data, manhole_dyn_t, cell_dyn_t, h_dict)
 4. 暑校
 5. 排除私立的,×  https://summer.uic.edu/courses/course-list/
 
-ucla
-ucb
-texas
-啊啊啊晚上太急了，都没有记录结果
+  - ucla 时间不行https://sa.ucla.edu/ro/public/soc
+  - uic 时间不行，全是5，6月出来的https://summer.uic.edu/courses/course-list/
+  - ucb DEF  https://cn.berkeley.edu/summer-sessions
+  - texas
+  - boston 时间https://www.bu.edu/summer/courses/computer-science/
+  - weisidunkangxin  https://public.enroll.wisc.edu/search?term=1266&modeOfInstruction=classroom&sessions=GAA,GBB,GCC,GDD,GEE,GFF,GGG,HDD,HEE,HAA,HBB,HCC,IAA,IBB,ICC,IDD,IEE,JAA,JBB,JCC,KAA,KBB,LAA 好像可以
+  - University of Washington 好像全是full term
+  - george tech?看不懂界面 只用本科生？
+  - austin  只有线上？
+  - 
+
 
 6. 房地产，胆子，地级市，县级市，区，钱，冠名费，大学教授，
 
