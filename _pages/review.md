@@ -449,4 +449,20 @@ pred_dict, h_dict, _ = model(static_data, manhole_dyn_t, cell_dyn_t, h_dict)
 5. 使用了周云的那个东东，有空要研究 ffpmeg这些乱七八糟的工具到底是哪里来的
 6.
 
+# 20260222
+1. 吃饭，学喝酒
+2. 大概率去6周了，加油
+3. LADR，特征值，慢慢沉下心
+4. 清理，洗澡！
+
+    ```bash
+    git gc --prune=now 
+    ``` 
+5. 昨日要学的工具还没学完
+6. 什么时候复盘kaggle比赛呢
+7. 明日约时间
+8. 看到5B，足了？
+9. UCB 6weeks  Introduction to Cognitive Science  COGSCI 1 002 - LEC 002+ American Language and Culture: Business and Social Entrepreneurship COLWRIT 51C 002 - SES 002
+10. 睡前看微分方0程
+11. microgpt
 ---
