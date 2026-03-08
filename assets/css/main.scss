@@ -46,12 +46,3 @@
 .sidebar {
   background-color: #cde6c7 !important;
 }
-
-/* 确保在暗色主题下也是浅绿色 */
-:root {
-  --global-bg-color: #cde6c7 !important;
-}
-
-html {
-  background-color: #cde6c7 !important;
-}

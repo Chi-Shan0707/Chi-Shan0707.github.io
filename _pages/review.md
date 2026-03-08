@@ -668,4 +668,15 @@ pred_dict, h_dict, _ = model(static_data, manhole_dyn_t, cell_dyn_t, h_dict)
 3. kaggle比赛继续
 4. 软件基础，老师强调：考试考逻辑。平时作业就是延申，做深入
 
+
+# 20260308
+1. 练车
+2. 生病
+3. 学长看不上我建的org呜呜
+4. v4.0
+5. next_to_do?
+6. 养胃吧
+7. 可解释性？张qs： 与或交互能去逼近？
+8. 
+
 ---
