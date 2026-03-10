@@ -689,7 +689,14 @@ pred_dict, h_dict, _ = model(static_data, manhole_dyn_t, cell_dyn_t, h_dict)
 8. 与或交互图没法梯度下降吗
 9. social
 
-
+# 20260310
+1. 有意思的人
+2. 失败
+3. ollama √
+4. zeroclaw √
+5. 有意思的人的有意思的观点: 最好的时代；找到自己要解决的问题；agent
+6. 语言科学复盘
+7. 不要有压力
 
 
 ---
