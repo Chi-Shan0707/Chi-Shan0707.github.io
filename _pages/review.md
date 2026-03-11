@@ -699,4 +699,16 @@ pred_dict, h_dict, _ = model(static_data, manhole_dyn_t, cell_dyn_t, h_dict)
 7. 不要有压力
 
 
+# 20260311
+1. 神经科学周围地质地！！
+2. 长期主义，没必要评价当下
+3. 泛化能力
+4. 善缘
+5. 影子，自己的plus，被别人的叙事挤占？
+6. claw牛逼
+7. 果蝇是假的？
+8. abstrain from lust
+9. 李约瑟之问
+10. 两种科研：一种是将方法推到极致；一种是用各种方法解决问题
+
 ---

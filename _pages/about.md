@@ -25,8 +25,8 @@ I hope to contribute to improving society.<br>
 
 ### 我的仓库/My repos
 
-1. 微调 Qwen 三部曲：从传统的 [SFT](https://github.com/Chi-Shan0707/Qwen4Luogu-SFT) 起步，我在此仓库中独立实现并开源了论文《Learning to Reason in 13 Parameters》（Meta）中描述的方法，基于 TinyLoRA 将其从原论文的数学题任务迁移并适配到编程题（代码与训练脚本见仓库：[TinyLoRA-Qwen-Coder](https://github.com/Chi-Shan0707/TinyLoRA-Qwen-Coder)）。此外对数据集与奖励函数进行了优化，并补充了测试与验证。原论文未发布代码；本项目为独立实现，非 Meta 官方或其认可的实现。下一步计划尝试 scale up。<br>
-   **The "Qwen Fine-tuning Trilogy"**: This repository contains an independent open-source reimplementation and adaptation of the methods described in the paper *Learning to Reason in 13 Parameters* (Meta). The original paper did not publish code; I reimplemented the method using TinyLoRA, adapted it from mathematical tasks to programming tasks, and published the implementation here: [TinyLoRA-Qwen-Coder](https://github.com/Chi-Shan0707/TinyLoRA-Qwen-Coder).<br> (This project is not endorsed by Meta!!)
+1. 微调 Qwen 三部曲：从传统的 [SFT](https://github.com/Chi-Shan0707/Qwen4Luogu-SFT) 起步，我在此仓库中独立实现并开源了论文《Learning to Reason in 13 Parameters》（Meta）中描述的方法，基于 TinyLoRA 将其从原论文的数学题任务迁移并适配到编程题（代码与训练脚本见仓库：[TinyLoRA-GRPO-Coder](https://github.com/Chi-Shan0707/TinyLoRA-GRPO-Coder)）。此外对数据集与奖励函数进行了优化，并补充了测试与验证。原论文未发布代码；本项目为独立实现，非 Meta 官方或其认可的实现。下一步计划尝试 scale up。<br>
+   **The "Qwen Fine-tuning Trilogy"**: This repository contains an independent open-source reimplementation and adaptation of the methods described in the paper *Learning to Reason in 13 Parameters* (Meta). The original paper did not publish code; I reimplemented the method using TinyLoRA, adapted it from mathematical tasks to programming tasks, and published the implementation here: [TinyLoRA-GRPO-Coder](https://github.com/Chi-Shan0707/TinyLoRA-GRPO-Coder).<br> (This project is not endorsed by Meta!!)
 
 2. 数个kaggle [repo link](https://github.com/Chi-Shan0707/KaggleCompetitions)比赛，广泛了解并使用了各种机器学习工具。<br>
    Participated in several **Kaggle competitions** (see repo: [KaggleCompetitions](https://github.com/Chi-Shan0707/KaggleCompetitions)), gaining broad exposure to and practical experience with various machine learning tools.<br>
