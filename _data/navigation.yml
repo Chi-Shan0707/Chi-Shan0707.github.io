@@ -13,3 +13,6 @@ main:
 
   - title: "Plan"
     url: /plan/
+
+  - title: "Posts"
+    url: /posts/
