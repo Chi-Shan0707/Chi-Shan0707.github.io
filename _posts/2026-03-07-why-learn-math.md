@@ -8,7 +8,7 @@ tags:
 ---
 
 <p>
-During today's *Advanced Algebra* lecture, my mobile-phone successfully distracted me again and again. At first, I dismissed it as just a vacation hangover: I had spent too much time scrolling through my phone during the winter vacation! 
+During today's Advanced Algebra lecture, my mobile-phone successfully distracted me again and again. At first, I dismissed it as just a vacation hangover: I had spent too much time scrolling through my phone during the winter vacation! 
 <p>
 <P>
 But this reason was one-sided. When dealing with an AI-program, I found myself switchingwindows as a reflex -- checking Wechat, checking Terminal,  checking copilot. Juggling, undoubtedly, has become an irritating habit.

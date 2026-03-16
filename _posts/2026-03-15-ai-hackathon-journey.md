@@ -6,4 +6,3 @@ tags:
   - AI
   - hackathon
 ---
-
