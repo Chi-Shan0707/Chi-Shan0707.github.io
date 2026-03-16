@@ -754,4 +754,16 @@ pred_dict, h_dict, _ = model(static_data, manhole_dyn_t, cell_dyn_t, h_dict)
 11. ai的人格？
 12. ai屠城
 13. 
+
+
+# 20260316
+1. 分手，好痛。
+2. 专注力！ 定力 思考力
+3. 补数学
+4. agent
+5. 之前欠的 pytorch学习 与或图求导还要继续
+6. 搜集的差不多了 可以研究做什么东西了
+7. 定力
+8. cogonitive science
+9. 
 ---
