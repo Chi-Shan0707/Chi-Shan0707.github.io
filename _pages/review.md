@@ -766,4 +766,16 @@ pred_dict, h_dict, _ = model(static_data, manhole_dyn_t, cell_dyn_t, h_dict)
 7. 定力
 8. cogonitive science
 9. 
+
+# 20260317
+1. 自己去争取资源
+2. 脑机接口？难，电信号？意识，本末倒置？
+3. 面向未来是对自己有益，符合自己当下利益也是有益
+4. phd到底是什么？ 论文只是载体，手段，途径
+5. 套磁，推荐信
+6. 科研
+7. connection
+8. 一种可能性
+9. 
+
 ---
