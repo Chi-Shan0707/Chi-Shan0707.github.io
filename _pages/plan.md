@@ -9,6 +9,13 @@ redirect_from:
 
 > 2026 Spring Semester Plan (Freshman Year, Semester 2)
 
+(updated on 20260320)
+
+1. Finish the project of Alex Lab(probably from 0321 to 0420).
+2. Couduct a seminar-in-dorm on the Randomized Algo.
+3. Finish the homework of AI-Software.
+4. Conclude the advice from those people.
+
 **长期目标**
 
 - 学好数学专业课，重点提高数分和高代（ladr继续读），追求"把握本质"。
