@@ -810,4 +810,14 @@ pred_dict, h_dict, _ = model(static_data, manhole_dyn_t, cell_dyn_t, h_dict)
 6. 定了个samplejava学习计划
 7. 选课？ 数院的课主要学完 ； xiehuimin主要关注每章最后的题目
 
+
+# 20260321
+1. 一点数学题
+2. 编译原理
+  - 语法树ast
+  - 代码->字节码->机器码
+  - 装饰器
+  - python调用c
+  - 理解最重要
+3. 学习c++的命令行？
 ---
