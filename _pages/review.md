@@ -829,4 +829,10 @@ pred_dict, h_dict, _ = model(static_data, manhole_dyn_t, cell_dyn_t, h_dict)
 4. 不要浮躁
 5. 发邮件了！！！
 
+
+# 20260323
+1. 数分 数值计算！！！
+2. dp
+3. 都是32 没有本质上区别？
+4. 看推理路径，走没走过相同的路？
 ---
