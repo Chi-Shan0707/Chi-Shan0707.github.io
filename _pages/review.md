@@ -845,4 +845,17 @@ pred_dict, h_dict, _ = model(static_data, manhole_dyn_t, cell_dyn_t, h_dict)
 5. MoSeq
 6. 制定书阅读
 
+
+# 20260325
+1. 要明白自己的心力的宝贵
+2. 不要老纠结于一个点的得失，要觉得这次去美国是长期的收益
+3. 去citywalk课也未尝不可
+4. 稍微弄懂了讲座
+5. 仔细听了那个imitation learning 人的loop
+6. opus劝诫我的话 明日摘录
+7. 小小的课题思考
+8. xiesaining  树？ 枝丫 根？
+9. 被针对了？
+10. 精力放在真正的要用的地方？
+11. 要复习今日数学
 ---
