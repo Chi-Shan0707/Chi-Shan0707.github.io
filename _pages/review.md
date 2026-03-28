@@ -877,4 +877,6 @@ pred_dict, h_dict, _ = model(static_data, manhole_dyn_t, cell_dyn_t, h_dict)
   - 极致的专注
   - 6个月的科研，一定要给自己有足够时间长的时间去explore，不是光想，要去hack问题。  可能最后一段时间才有；像随机梯度下降；
   - 最重要的不是a->b的路，而是梯度，梯度的来源
+  - 定义好问题，才能去创新
+2. 深层神经元数量和浅层神经元；剔除雷同部分;清洗掉没有必要的数据集；希望选择器是无偏的，；消融；problem 和 run 的混合；latent reasoning；nfs_weighted是什么方法; 2d->3d
 ---
