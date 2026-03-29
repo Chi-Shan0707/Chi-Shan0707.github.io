@@ -886,4 +886,11 @@ pred_dict, h_dict, _ = model(static_data, manhole_dyn_t, cell_dyn_t, h_dict)
 2. 今日软件基础的课没有学的很懂
 3. 今日seminar 学了一些有意思的概念，但是本质的东西要加强吸收能力
 4. 仔细回忆
+
+
+# 2026039
+1. NAD_Next
+2. 数学
+3. 分析，需要基本功
+4. 代数需要再去看白皮
 ---
