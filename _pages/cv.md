@@ -11,8 +11,8 @@ redirect_from:
 
 Profile
 ======
-* First-year undergraduate in **Department of Mathematics** at **Fudan University**, pursuing a double degree in **Information and Computing Science & Artificial Intelligence**.
-* GPA: **3.96/4.00** (most recent semester); **ranked 10th (top 5%)** in major.
+* First-year undergraduate in **School of Mathematical Sciences** at **Fudan University**, pursuing a double degree in **Information and Computing Science & Artificial Intelligence**.
+* GPA: **3.96/4.00** (most recent semester); **ranked 10th (top 5%)** in the cohort.
 * Interested in the mathematical foundations of AI, large language models, reinforcement learning, algorithms, and efficient model training.
 * Most listed projects were completed independently outside a formal lab or research group.
 
@@ -21,7 +21,7 @@ Education
 * **Fudan University**, Shanghai, China
   * Double Degree in Information and Computing Science & Artificial Intelligence
   * GPA: **3.96/4.00** (most recent semester)
-  * Rank: **10th (top 5%)** in major.
+  * Rank: **10th (top 5%)** in the cohort.
 
 Research Interests
 ======
