@@ -84,5 +84,6 @@ Beyond my personal projects, I also contribute to community-oriented open-source
 School of Mathematical Sciences, Fudan University
 
 
-*When clouds come, the mountains are more beautiful; when clouds go, the mountains are like a painting. Mountains brighten or dim because of clouds, and clouds rise and fall with the mountains.*
+*When clouds gather, the mountain grows lovelier still; when they part, it stands like a painting.*<br>
+*Clouds lend it shadow and light, and give shape to its height.*<br>
 ---
