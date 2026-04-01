@@ -55,6 +55,7 @@ author_profile: true
 除个人项目外，我也在参与一些社区导向的开源工作。
 
    1. [FDUGuideBook/nav-site](https://github.com/FDUGuideBook/nav-site) 
+      我持续贡献维护FDUGuideBOOK复旦导航站。
 
 ### 技术栈与工具
 
