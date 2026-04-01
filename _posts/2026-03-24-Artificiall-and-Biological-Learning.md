@@ -1,13 +1,14 @@
 ---
-title: "Learning in Artificial and Biological Systems- From In-ContextLearning Phase Transitions to Animal behavioral learning"
-date: 2026-03-15
-excerpt: "My Notes from Dr. Cui's Lecture "
+title: "Artificiall and Biological-Learning"
+date: 2026-03-24
+excerpt: "My Notes from Dr. Cui's Lecture Learning in Artificial and Biological Systems- From In-ContextLearning Phase Transitions to Animal behavioral learning"
 tags:
   - AI
   - cogonition
 ---
 
 ## Artificial Learning
+
 <p>
 First, let's see AI.
 <p>
@@ -37,6 +38,7 @@ And we can get:
 - a simple dynamical system
 - a phase portrait about first-order phas transition from unigram generalization to memoriazation
 <p>
+
 <!-- 我们可以研究这种推动力是什么 -->
 
 Summary 
