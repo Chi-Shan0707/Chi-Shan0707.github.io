@@ -43,5 +43,17 @@ And a question by the instructor inspired us: MBTI test is so long that it is al
 <p>
 
 <p>
-So we conceived an idea: make a test to evaluate how much you have been assimilated by AI: become more reactive, become more impulsive and less empathetic.
+So we conceived an idea: make a test to evaluate how much you have been assimilated by AI: become more reactive, become more impulsive and less empathetic, etc.
+<p>
+
+<p>
+In retrospect, we found some problems: this was not so interesting. And a major reason for the popularity of mbti is that they can serve as a vehicle for socializing -- you are E and I am I, we complement each other!<br>
+Besides, our game adpoted AI to assess your quality : how strange, we are judged by AI. My hindsight is that we should choose some pure mathematical ways to calculate and compare.
+<p>
+<p>
+One pity was that I haven't explored other teams' ideas in depth. Scarely had the competition ended when I realized the most valuable thing was not win, but the ideas and opinions from innovators.
+<p>
+<P>
+But we truly gain much. We collaborate and innovate. We clinch and pitch.<br>
+Keep going.
 <p>
