@@ -41,13 +41,14 @@ And we can get:
 
 <!-- 我们可以研究这种推动力是什么 -->
 
-Summary 
-1. 4 algorithms can be naturally implemented by in-context learning of Markov processes by a simple two-layer transformer architecture.
-2. Abrupt learning can be explained by the cliff landscape predicted from our minimal models.
-3. A scaling relation between the timing of abrupt learning and the context length is derived.
-4. In  the finite task-diversity regime, we identfy two distinct phase trainsitions between memorization and generalization, determined by competition and model capacity, respectivley.
-5. The generalization ability does not always scale up with model size.
+Summary <br>
+1. 4 algorithms can be naturally implemented by in-context learning of Markov processes by a simple two-layer transformer architecture.<br>
+2. Abrupt learning can be explained by the cliff landscape predicted from our minimal models.<br>
+3. A scaling relation between the timing of abrupt learning and the context length is derived.<br>
+4. In  the finite task-diversity regime, we identfy two distinct phase trainsitions between memorization and generalization, determined by competition and model capacity, respectivley.<br>
+5. The generalization ability does not always scale up with model size.<br>
 
+<br>
 
 ## Biological Learning
 
@@ -73,8 +74,10 @@ There are a few conclusions:
 
 <p>
 Take home message: biological motor learning operate through a select-and-refine strategy
-rather than generate-from-scratch strategy
+rather than generate-from-scratch strategy<br>
 <P>
+
+<br>
 
 
 ## Shared Principles of Artificial and Biological Learning
