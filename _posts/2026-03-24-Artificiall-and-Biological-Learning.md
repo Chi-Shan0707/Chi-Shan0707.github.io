@@ -1,11 +1,10 @@
-
 ---
 title: "Learning in Artificial and Biological Systems- From In-ContextLearning Phase Transitions to Animal behavioral learning"
 date: 2026-03-15
 excerpt: "My Notes from Dr. Cui's Lecture "
 tags:
   - AI
-  - Cogonition
+  - cogonition
 ---
 
 ## Artificial Learning
@@ -16,6 +15,7 @@ First, let's see AI.
 <p>
 Since Large models are large, so we construct a simple markov (rule) to generate random structured sequences, and then we uese a single two-layer transformer nerual network to learn the structure.
 <p>
+
 <p>
 Experiments show 4 behaviours:
 - Unigram Retrieval
@@ -36,7 +36,7 @@ And we can get:
 - a cliff landscape
 - a simple dynamical system
 - a phase portrait about first-order phas transition from unigram generalization to memoriazation
-
+<p>
 <!-- 我们可以研究这种推动力是什么 -->
 
 Summary 
@@ -46,11 +46,13 @@ Summary
 4. In  the finite task-diversity regime, we identfy two distinct phase trainsitions between memorization and generalization, determined by competition and model capacity, respectivley.
 5. The generalization ability does not always scale up with model size.
 
+
 ## Biological Learning
 
 <p>
 Then let's pay attention to rats.
 <p>
+
 <p>
 We can easily observe with sensors.<br>
 We can easily conduct reinforcement-training( not learning lol)<br>
@@ -72,7 +74,9 @@ Take home message: biological motor learning operate through a select-and-refine
 rather than generate-from-scratch strategy
 <P>
 
+
 ## Shared Principles of Artificial and Biological Learning
+
 
 | Principle | AI Side | Biological Side |
 | :--- | :--- | :--- |

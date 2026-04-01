@@ -60,7 +60,7 @@ I hope to contribute to making society better.<br>
 Beyond my personal projects, I also contribute to community-oriented open-source work.
 
    1. [FDUGuideBook/nav-site](https://github.com/FDUGuideBook/nav-site) <br>
-      Contribute to an open-source student resource navigation site for the Fudan community continuously.
+      Contribute to this navigation site for the Fudan community continuously.
 
 ### Tech stack and tools
 
