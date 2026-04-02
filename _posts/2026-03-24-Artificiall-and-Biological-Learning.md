@@ -1,9 +1,10 @@
 ---
 title: "Artificiall and Biological-Learning"
 date: 2026-03-24
-excerpt: "My Notes from Dr. Cui's Lecture Learning in Artificial and Biological Systems- From In-ContextLearning Phase Transitions to Animal behavioral learning"
+excerpt: "My Notes from Dr. Cui's Lecture ——— Learning in Artificial and Biological Systems- From In-ContextLearning Phase Transitions to Animal behavioral learning*"
 tags:
   - AI
+  - math
   - cognition
 ---
 
