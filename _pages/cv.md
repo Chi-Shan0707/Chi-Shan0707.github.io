@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[**� View PDF version**]({{ base_path }}/files/Yuhan_Chi_CV.pdf)
+
 Profile
 ======
 * First-year undergraduate in **School of Mathematical Sciences** at **Fudan University**, pursuing a double degree in **Information and Computing Science & Artificial Intelligence**.
