@@ -937,4 +937,14 @@ pred_dict, h_dict, _ = model(static_data, manhole_dyn_t, cell_dyn_t, h_dict)
 7. 让·G老师分析实验数据
 8. 发邮件
 
+
+
+# 20260404
+1. seminar
+2. 学习
+3. 练车
+4. 应该听别的同学的想法的
+5. 强化学习要搞了
+6. 开始有对于任务更深的思考？
+7. 时间过得真过分的快了。 
 ---
