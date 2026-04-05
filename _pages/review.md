@@ -947,4 +947,11 @@ pred_dict, h_dict, _ = model(static_data, manhole_dyn_t, cell_dyn_t, h_dict)
 5. 强化学习要搞了
 6. 开始有对于任务更深的思考？
 7. 时间过得真过分的快了。 
+
+# 20260405
+1. 强化学习速通
+2. diffusionmodel学习
+3. 数值代数与优化
+4. 啊啊时间都去哪了
+
 ---
