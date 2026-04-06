@@ -954,4 +954,11 @@ pred_dict, h_dict, _ = model(static_data, manhole_dyn_t, cell_dyn_t, h_dict)
 3. 数值代数与优化
 4. 啊啊时间都去哪了
 
+# 20260406
+1. 强化学习
+2. 数值代数还是有意思
+3. 哎呀，又忘了早上做什么了。
+
+
+
 ---
