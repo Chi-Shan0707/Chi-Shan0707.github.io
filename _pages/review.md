@@ -969,4 +969,13 @@ pred_dict, h_dict, _ = model(static_data, manhole_dyn_t, cell_dyn_t, h_dict)
 6. fengming说的到底是第几节课习题课讲到了优化？
 7. 写邮件？
 8. 还是要提高效率！！！
+
+# 20260408
+1. 研究强化学习
+2. 研究agent一点？
+3. 研究了数值代数
+4. 数分？
+5. 系统性地完成工作！
+6. 写文章
+7. 
 ---

@@ -27,12 +27,11 @@ Education
 
 Research Interests
 ======
-* Mathematical foundations of artificial intelligence
-* Reinforcement learning 
-* Large language models and reasoning
-* Mathematical modeling
-* Algorithms, optimization, and machine learning systems
-* Generative Models
+- Algorithms and optimization
+- Reinforcement Learning
+- Deep Learning
+- LLM reasoning
+
 
 Selected Open-Source Projects
 ======
