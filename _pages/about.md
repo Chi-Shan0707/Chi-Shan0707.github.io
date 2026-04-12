@@ -23,31 +23,89 @@ At the same time, I have been actively self-studying interesting topics across c
 I am exploring the intersection I truly want to work on and study.<br>
 I hope to contribute to making society better.<br>
 
-### My repos
 
-- The following projects were primarily completed independently, with AI used only as an auxiliary tool where appropriate. These works were not conducted under a laboratory or research group; rather, they reflect my self-directed exploration, sustained learning, and independent implementation outside a formal research environment.<br>
-   1. [TinyLoRA-GRPO-Coder](https://github.com/Chi-Shan0707/TinyLoRA-GRPO-Coder)<br>
+### My featured work
+
+#### [SVDomain](https://github.com/Chi-Shan0707/SVDomain)
+
+<details>
+<summary>Domain-conditioned low-rank framework for chain-of-thought analysis</summary>
+
+SVDomain is a domain-conditioned low-rank framework that builds feature views from token-level confidence and uncertainty statistics, trajectory summaries, and availability indicators, and learns a shared latent basis with a lightweight linear readout.
+
+- Canonical pipeline: StandardScaler → TruncatedSVD → LogisticRegression
+- Downstream tasks: EarlyStop, Best-of-N bridging, RL checkpoint ranking.
+- Focus: when low-rank structure becomes predictive, how bases transfer across anchors, and how the same low-rank object can support both prediction and explanation.
+
+This repository contains a paper-style writeup and code to reproduce experiments and analyses.
+
+</details>
+
+
+#### [TinyLoRA-GRPO-Coder](https://github.com/Chi-Shan0707/TinyLoRA-GRPO-Coder)<br>
+
+> low-parameter adaptation and reinforcement learning for code generation<br>
+
+   
       An independent open-source reimplementation and adaptation of TinyLoRA + GRPO from *Learning to Reason in 13 Parameters*, migrated from math reasoning to verifiable competitive-programming code generation. Built on Qwen2.5-Coder-3B with only a tiny number of shared trainable parameters, the project uses real compile-and-run rewards rather than static heuristics. I developed the full pipeline end to end, including data processing, training, multi-GPU setup, reward design, evaluation, and validation, which significantly strengthened my ability to turn a paper into a working research system.<br>
 
-   2. [KaggleCompetitions](https://github.com/Chi-Shan0707/KaggleCompetitions)<br>
-      Participated in several **Kaggle competitions** (see repo: [KaggleCompetitions](https://github.com/Chi-Shan0707/KaggleCompetitions)), gaining broad exposure to and practical experience with various machine learning tools.<br>
 
-   3. [Hone My C Plus Plus](https://github.com/Chi-Shan0707/KaggleCompetitions)<br>
-      Explorations of **Advanced Algorithms** and **Modern C++** can be found in [Hone My C Plus Plus](https://github.com/Chi-Shan0707/Hone-My-C-Plus-Plus-).
 
-   4. [microgpt.cpp](https://github.com/Chi-Shan0707/microgpt.cpp)<br>
-      A simple `microgpt.cpp` in 300 lines (see repo: [microgpt.cpp](https://github.com/Chi-Shan0707/microgpt.cpp)).<br>
+I enjoy building small but complete research systems, writing technical notes, and turning vague ideas into runnable artifacts.
 
-   5. [Baseball](https://github.com/Chi-Shan0707/Baseball)<br>
-      A **Strike/Ball Classification Model** using CNN + ResNet18 for baseball pitch analysis (see repo: [Baseball](https://github.com/Chi-Shan0707/Baseball)).<br>
+### My repos
 
-   6. [Sample Java](https://github.com/Chi-Shan0707/Sample-Java)<br>
-      The essence of **Randomized Algorithms** lies in the "Art of Sampling"—making choices that appear random but are statistically effective. This repo also marks my first taste of Java, hence the name [Sample Java](https://github.com/Chi-Shan0707/Sample-Java). The majority of the repo is my study notes.<br>
-   7. [DeepLearning](https://github.com/Chi-Shan0707/DeepLearning), [GenerativeModel](https://github.com/Chi-Shan0707/GenerativeModel), [ReinforcementLearning](https://github.com/Chi-Shan0707/ReinforcementLearning)<br>
-      These three repositories serve as **my learning records**, covering the journey from theoretical derivation to code implementation in Deep Learning, Generative Models, and Reinforcement Learning (see repos: [DeepLearning](https://github.com/Chi-Shan0707/DeepLearning), [GenerativeModel](https://github.com/Chi-Shan0707/GenerativeModel), [ReinforcementLearning](https://github.com/Chi-Shan0707/ReinforcementLearning)).<br>
+- The following projects were primarily completed independently, with AI used only as an auxiliary tool where appropriate. These works were not conducted under a laboratory or research group; rather, they reflect my self-directed exploration, sustained learning, and independent implementation outside a formal research environment.
+
+<details>
+<summary><a href="https://github.com/Chi-Shan0707/KaggleCompetitions" target="_blank" rel="noopener">KaggleCompetitions</a></summary>
+
+<p>Participated in several <strong>Kaggle competitions</strong> (see repo: <a href="https://github.com/Chi-Shan0707/KaggleCompetitions" target="_blank" rel="noopener">KaggleCompetitions</a>), gaining broad exposure to and practical experience with various machine learning tools.</p>
+
+</details>
+
+<details>
+<summary><a href="https://github.com/Chi-Shan0707/Hone-My-C-Plus-Plus-" target="_blank" rel="noopener">Hone My C Plus Plus</a></summary>
+
+<p>Explorations of <strong>Advanced Algorithms</strong> and <strong>Modern C++</strong> can be found in <a href="https://github.com/Chi-Shan0707/Hone-My-C-Plus-Plus-" target="_blank" rel="noopener">Hone My C Plus Plus</a>.</p>
+
+</details>
+
+<details>
+<summary><a href="https://github.com/Chi-Shan0707/microgpt.cpp" target="_blank" rel="noopener">microgpt.cpp</a></summary>
+
+<p>A simple <code>microgpt.cpp</code> in ~300 lines (repo: <a href="https://github.com/Chi-Shan0707/microgpt.cpp" target="_blank" rel="noopener">microgpt.cpp</a>).</p>
+
+</details>
+
+<details>
+<summary><a href="https://github.com/Chi-Shan0707/Baseball" target="_blank" rel="noopener">Baseball</a></summary>
+
+<p>A <strong>Strike/Ball Classification Model</strong> using CNN + ResNet18 for baseball pitch analysis (repo: <a href="https://github.com/Chi-Shan0707/Baseball" target="_blank" rel="noopener">Baseball</a>).</p>
+
+</details>
+
+<details>
+<summary><a href="https://github.com/Chi-Shan0707/Sample-Java" target="_blank" rel="noopener">Sample Java</a></summary>
+
+<p>The essence of <strong>Randomized Algorithms</strong>—the "Art of Sampling"—and my first taste of Java. Repo: <a href="https://github.com/Chi-Shan0707/Sample-Java" target="_blank" rel="noopener">Sample Java</a>.</p>
+
+</details>
+
+<details>
+<summary>DeepLearning / GenerativeModel / ReinforcementLearning</summary>
+
+<p>These three repositories serve as <strong>learning records</strong> covering theory → implementation:</p>
+<ul>
+   <li><a href="https://github.com/Chi-Shan0707/DeepLearning" target="_blank" rel="noopener">DeepLearning</a></li>
+   <li><a href="https://github.com/Chi-Shan0707/GenerativeModel" target="_blank" rel="noopener">GenerativeModel</a></li>
+   <li><a href="https://github.com/Chi-Shan0707/ReinforcementLearning" target="_blank" rel="noopener">ReinforcementLearning</a></li>
+</ul>
+
+</details>
 
 - The following project was completed in collaboration with others.<br>
-   1. [NAD Next](https://github.com/Chi-Shan0707/NAD_Next)
+   1. [NAD Next](https://github.com/Chi-Shan0707/NAD_Next)<br>
       A collaborative framework for analyzing large-language-model neuron activations and reasoning processes. The project covers activation-cache construction, selector evaluation, token-level statistics, and visualization. Our goal is to compare different runs on the same problem via CoT-, activation-, and ensemble-based signals, and estimate which run is more likely to be correct or incorrect. 
       My primary contribution to this project is algorithm construction and method design.<br>
       > Note: This project is currently a work in progress (WIP). Due to practical constraints, some content cannot be open-sourced on GitHub immediately; therefore, the current public repository is not yet complete. We will continue to add materials and update toward a more complete release as conditions permit.<br>
