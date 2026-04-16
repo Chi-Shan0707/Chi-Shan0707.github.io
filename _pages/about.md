@@ -26,6 +26,12 @@ I hope to contribute to making society better.<br>
 
 ## My featured works
 
+I enjoy building small but complete research systems, writing technical notes, and turning vague ideas into runnable artifacts.
+
+
+***
+
+
 ### [SVDomain](https://github.com/Chi-Shan0707/SVDomain)
 
 **I propose SVDomain : a domain-conditioned low-rank framework for chain-of-thought analysis.**
@@ -33,7 +39,7 @@ I hope to contribute to making society better.<br>
 <details>
 <summary>Overview</summary>
 
-I propose SVDomain: a domain-conditioned low-rank framework that builds feature views from token-level confidence and uncertainty statistics, trajectory summaries, and availability indicators, and learns a shared latent basis with a lightweight linear readout.
+SVDomain is a domain-conditioned low-rank framework that builds feature views from token-level confidence and uncertainty statistics, trajectory summaries, and availability indicators, and learns a shared latent basis with a lightweight linear readout.
 
 - Canonical pipeline: StandardScaler → TruncatedSVD → LogisticRegression
 - Downstream tasks: EarlyStop, Best-of-N bridging, RL checkpoint ranking.
@@ -53,7 +59,6 @@ This repository contains a paper-style writeup and code to reproduce experiments
 An independent open-source reimplementation and adaptation of TinyLoRA + GRPO from *Learning to Reason in 13 Parameters*, migrated from math reasoning to verifiable competitive-programming code generation. Built on Qwen2.5-Coder-3B with only a tiny number of shared trainable parameters, the project uses real compile-and-run rewards rather than static heuristics. I developed the full pipeline end to end, including data processing, training, multi-GPU setup, reward design, evaluation, and validation, which significantly strengthened my ability to turn a paper into a working research system.
 
 </details>
-I enjoy building small but complete research systems, writing technical notes, and turning vague ideas into runnable artifacts.
 
 ## My repos
 
@@ -126,7 +131,9 @@ I enjoy building small but complete research systems, writing technical notes, a
 
 Beyond my personal projects, I also contribute to community-oriented open-source work.
 
-   1. [FDUGuideBook/nav-site](https://github.com/FDUGuideBook/nav-site) <br>
+   1. [github-unflag-playbook-cn](https://github.com/Chi-Shan0707/github-unflag-playbook-cn) <br>
+      A Chinese playbook documenting GitHub account flagging/recovery experiences, appeal processes, and case archives for mainland China developers.
+   2. [FDUGuideBook/nav-site](https://github.com/FDUGuideBook/nav-site) <br>
       Contribute to this navigation site for the Fudan community continuously.
 
 ### Tech stack and tools

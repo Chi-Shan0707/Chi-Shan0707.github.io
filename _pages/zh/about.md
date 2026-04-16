@@ -126,7 +126,9 @@ redirect_from:
 
 除了个人项目之外，我也参与面向社区的公益性开源工作。
 
-   1. [FDUGuideBook/nav-site](https://github.com/FDUGuideBook/nav-site) <br>
+   1. [github-unflag-playbook-cn](https://github.com/Chi-Shan0707/github-unflag-playbook-cn) <br>
+      面向中国大陆开发者的 GitHub 账号 flagged / hidden 自救手册与案例档案，系统整理申诉流程与案例。
+   2. [FDUGuideBook/nav-site](https://github.com/FDUGuideBook/nav-site) <br>
       持续为复旦社区贡献导航网站。
 
 ### Tech stack and tools
