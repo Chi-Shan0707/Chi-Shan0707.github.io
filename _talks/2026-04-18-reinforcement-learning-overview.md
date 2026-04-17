@@ -10,9 +10,20 @@ excerpt: "A one-hour mathematical bridge from bandits to PPO, designed as prepar
 pdf_url: "/files/From%20Bandits%20to%20PPO.pdf"
 ---
 
-This page is the seminar detail page for "From Bandits to PPO". It is organized as a concise index of what the talk covers, while complete derivations and proofs are provided in the PDF notes.
+This page is the seminar detail page for "From Bandits to PPO".
 
-[Read Full Notes (PDF)](/files/From%20Bandits%20to%20PPO.pdf){: .btn .btn--primary }
+The PDF notes are the complete written version of this seminar. They include the full formulas, derivations, and algorithm summaries that are only briefly mentioned on this page.
+
+The content follows a single line: Bandits -> MDPs -> MC/TD -> policy gradient -> GAE -> PPO. The goal is to keep the concepts connected, so readers can see where each method comes from and why PPO is the endpoint of this prerequisite talk.
+
+[Read the Full LaTeX Notes (PDF)](/files/From%20Bandits%20to%20PPO.pdf){: .btn .btn--primary }
+
+If you want a quick reading path, focus on these four points:
+
+1. The basic map: what is learned (value vs. policy) and how the learning signal is estimated (MC vs. TD).
+2. Variance reduction: baseline, advantage, actor-critic, and GAE.
+3. Update stability: why plain policy gradient is unstable and how PPO clipping helps.
+4. Handoff to the next topic: why PPO is a natural stopping point before GRPO/DAPO.
 
 ## Seminar Snapshot
 
