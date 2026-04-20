@@ -127,7 +127,7 @@ redirect_from:
 ***
 
 
-### Service and Community Involvement
+## Service and Community Involvement
 
 除了个人项目之外，我也参与面向社区的公益性开源工作。
 
@@ -136,7 +136,7 @@ redirect_from:
    2. [FDUGuideBook/nav-site](https://github.com/FDUGuideBook/nav-site) <br>
       持续为复旦社区贡献导航网站。
 
-### Tech stack and tools
+## Tech stack and tools
 
 | Domain         | Skills                                                                 |
 |----------------|------------------------------------------------------------------------|
@@ -150,7 +150,7 @@ redirect_from:
 
 ***
 
-### Education
+## Education
 
 <!-- - <img src="/icons/fdfzlogo.jpg" alt="FDFZ" width="64" style="vertical-align:middle; margin-right:8px;" /> 复旦大学附属中学 — [官网](https://www.fdfz.cn/)
 - <img src="/icons/fudanlogo.png" alt="Fudan Math" width="64" style="vertical-align:middle; margin-right:8px;" /> 复旦大学数学科学学院 — [官网](https://math.fudan.edu.cn/) -->

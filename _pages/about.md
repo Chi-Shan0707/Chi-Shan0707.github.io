@@ -127,7 +127,7 @@ An independent open-source reimplementation and adaptation of TinyLoRA + GRPO fr
 ***
 
 
-### Service and Community Involvement
+## Service and Community Involvement
 
 Beyond my personal projects, I also contribute to community-oriented open-source work.
 
@@ -136,7 +136,7 @@ Beyond my personal projects, I also contribute to community-oriented open-source
    2. [FDUGuideBook/nav-site](https://github.com/FDUGuideBook/nav-site) <br>
       Contribute to this navigation site for the Fudan community continuously.
 
-### Tech stack and tools
+## Tech stack and tools
 
 | Domain         | Skills                                                                 |
 |----------------|------------------------------------------------------------------------|
@@ -151,7 +151,7 @@ Beyond my personal projects, I also contribute to community-oriented open-source
 
 ***
 
-### Education
+## Education
 
 <!-- - <img src="/icons/fdfzlogo.jpg" alt="FDFZ" width="64" style="vertical-align:middle; margin-right:8px;" /> 复旦大学附属中学 — [官网](https://www.fdfz.cn/)
 - <img src="/icons/fudanlogo.png" alt="Fudan Math" width="64" style="vertical-align:middle; margin-right:8px;" /> 复旦大学数学科学学院 — [官网](https://math.fudan.edu.cn/) -->
