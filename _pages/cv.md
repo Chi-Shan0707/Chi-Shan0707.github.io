@@ -35,11 +35,16 @@ Research Interests
 
 Selected Open-Source Projects
 ======
-* **[Cot-Knot](https://github.com/Chi-Shan0707/cot-knot)**
+* **[Cot-Knot](https://github.com/Chi-Shan0707/cot-knot)** — [Preprint (Zenodo)](https://zenodo.org/records/19690518)
   * A paper-level research repository on the domain-conditioned semantics of self-correction in chain-of-thought (CoT).
   * Investigated whether "self-correction" acts as a universal quality signal or is heavily domain-conditioned across Math and Coding tasks.
   * Shifted focus from standard verifier benchmarking to structural measurement analysis, analyzing the annotation protocols grounding self-correction probes.
   * Proposed a replacement protocol for coding knots based on execution-semantic breaks to improve conceptual precision and annotator agreement.
+  * *Currently preparing a workshop submission.*
+
+* **[SVDomain](https://github.com/Chi-Shan0707/SVDomain)** *(collaborative)*
+  * Proposed a domain-conditioned low-rank framework for chain-of-thought analysis, building feature views from token-level confidence/uncertainty statistics, trajectory summaries, and availability indicators.
+  * Canonical pipeline: StandardScaler → TruncatedSVD → LogisticRegression. Downstream tasks include EarlyStop, Best-of-N bridging, and RL checkpoint ranking.
 
 * **[TinyLoRA-GRPO-Coder](https://github.com/Chi-Shan0707/TinyLoRA-GRPO-Coder)**
   * Independent open-source reimplementation and adaptation of TinyLoRA + GRPO from *Learning to Reason in 13 Parameters*
