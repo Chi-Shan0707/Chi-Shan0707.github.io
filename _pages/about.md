@@ -46,6 +46,8 @@ Cot-Knot investigates whether "self-correction" in chain-of-thought (CoT) reason
 
 The central finding is that "self-correction" does not behave identically across domains. While math "knots" (explicit, text-visible local state breaks) reliably predict correctness, originally formulated coding "knots" are annotation-invalid and predictively weak. To resolve this, the project proposes a replacement protocol based on execution-semantic breaks, improving both conceptual precision and annotation agreement.
 
+Preprint available on [Zenodo](https://zenodo.org/records/19690518). Currently preparing a workshop submission.
+
 </details>
 
 <!-- ### [SVDomain](https://github.com/Chi-Shan0707/SVDomain)
