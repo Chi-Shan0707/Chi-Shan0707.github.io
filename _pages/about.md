@@ -35,8 +35,20 @@ I enjoy building small but complete research systems, writing technical notes, a
 
 ***
 
+### [Cot-Knot](https://github.com/Chi-Shan0707/cot-knot)
 
-### [SVDomain](https://github.com/Chi-Shan0707/SVDomain)
+**A paper repository on the domain-conditioned semantics of self-correction in chain-of-thought.**
+
+<details>
+<summary>Overview</summary>
+
+Cot-Knot investigates whether "self-correction" in chain-of-thought (CoT) reasoning acts as a universal quality signal or if it is heavily domain-conditioned. By taking a structural measurement perspective, the project shifts the focus from standard verifier benchmarking to scrutinizing the validity of the annotation protocols themselves across Math and Coding domains.
+
+The central finding is that "self-correction" does not behave identically across domains. While math "knots" (explicit, text-visible local state breaks) reliably predict correctness, originally formulated coding "knots" are annotation-invalid and predictively weak. To resolve this, the project proposes a replacement protocol based on execution-semantic breaks, improving both conceptual precision and annotation agreement.
+
+</details>
+
+<!-- ### [SVDomain](https://github.com/Chi-Shan0707/SVDomain)
 
 **I propose SVDomain : a domain-conditioned low-rank framework for chain-of-thought analysis.**
 
@@ -51,7 +63,7 @@ SVDomain is a domain-conditioned low-rank framework that builds feature views fr
 
 This repository contains a paper-style writeup and code to reproduce experiments and analyses.
 
-</details>
+</details> -->
 
 ### [TinyLoRA-GRPO-Coder](https://github.com/Chi-Shan0707/TinyLoRA-GRPO-Coder)
 
@@ -115,8 +127,26 @@ An independent open-source reimplementation and adaptation of TinyLoRA + GRPO fr
 
 </details>
 
- - The following project was completed in collaboration with others.
+### [SVDomain](https://github.com/Chi-Shan0707/SVDomain)
 
+**I propose SVDomain: a domain-conditioned low-rank framework for chain-of-thought analysis.**
+
+<details>
+<summary>Overview</summary>
+
+SVDomain is a domain-conditioned low-rank framework that builds feature views from token-level confidence and uncertainty statistics, trajectory summaries, and availability indicators, and learns a shared latent basis with a lightweight linear readout.
+
+- Canonical pipeline: StandardScaler → TruncatedSVD → LogisticRegression
+- Downstream tasks: EarlyStop, Best-of-N bridging, RL checkpoint ranking.
+- Focus: when low-rank structure becomes predictive, how bases transfer across anchors, and how the same low-rank object can support both prediction and explanation.
+
+This repository contains a paper-style writeup and code to reproduce experiments and analyses.
+
+</details>
+
+This project was completed in collaboration with others. My collaborator contributed the meta-level raw data foundation; I proposed the framework, designed and ran the experiments, and conducted the validation.
+
+<!-- - The following project was completed in collaboration with others.
 <details>
 <summary><a href="https://github.com/Chi-Shan0707/NAD_Next" target="_blank" rel="noopener">NAD Next</a></summary>
 
@@ -126,7 +156,7 @@ An independent open-source reimplementation and adaptation of TinyLoRA + GRPO fr
 
 > Note: This project is currently a work in progress (WIP). Due to practical constraints, some content cannot be open-sourced on GitHub immediately; therefore, the current public repository is not yet complete. We will continue to add materials and update toward a more complete release as conditions permit.
 
-</details>
+</details> -->
 
 ***
 
