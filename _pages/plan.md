@@ -17,6 +17,6 @@ This is why my focus turns to **sequential decision-making** and **Reinforcement
 
 My interest in **world models** comes from the same intuition. A useful world model should not be merely a predictor of the next state. It should support decisions by representing consequences, uncertainty, and the structure of the environment in a way that is relevant for action.
 
-Ultimately, I want to understand how to build **entrustable sequential decision-making systems**: agents that are not only mathematically sound and highly capable, but also appropriate to rely on—agents that know when to act, when to defer, and how to bear the consequences of their choices.
+Crucially, my approach to trust is not a vague philosophical inquiry, but a pursuit of **mathematical interpretability**. Ultimately, I want to understand how to build **entrustable sequential decision-making systems**: agents that are mathematically verifiable, formally grounded, and appropriate to rely on—agents that know when to act, when to defer, and how to bear the consequences of their choices.
 
 *This page records a motivation, not a concrete study plan.*

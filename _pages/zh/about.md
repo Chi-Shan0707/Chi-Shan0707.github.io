@@ -26,7 +26,7 @@ redirect_from:
 
 ## My research interests
 
-目前，我正在探索大模型与**序列决策（sequential decision-making）**中“智能涌现”的数理基础。更具体地说，我希望通过**强化学习（Reinforcement Learning）**相关方法去进一步深入这些领域。<br>
+目前，我正在探索大模型与**序列决策（sequential decision-making）**中“智能涌现”的数理基础。更具体地说，面对关于 AI 信任的探讨，我不满足于模糊的哲学思辨，而是希望建立在**数理解释性（mathematical interpretability）**的根基之上，并通过**强化学习（Reinforcement Learning）**相关方法去进一步深入。<br>
 我的motivation，参见 [plan](/plan/) 页面。
 
 
