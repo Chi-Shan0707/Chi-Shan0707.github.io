@@ -18,6 +18,11 @@
               <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
             </li>
           {% endfor %}
+          <li id="theme-toggle" class="masthead__menu-item">
+            <a role="button" aria-label="Toggle dark mode">
+              <i id="theme-icon" class="fas fa-sun" aria-hidden="true"></i>
+            </a>
+          </li>
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
