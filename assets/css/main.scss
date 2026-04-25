@@ -42,9 +42,14 @@
     "vendor/font-awesome/brands"
 ;
 
-/* Custom sidebar background color - 浅绿色 */
+/* Custom sidebar background color - 浅绿色 (light mode) */
 .sidebar {
-  background-color: #cde6c7 !important;
+  background-color: #cde6c7;
+}
+
+/* Dark mode sidebar */
+html[data-theme="dark"] .sidebar {
+  background-color: #2a2a2a;
 }
 
 /* Responsive hardening: prevent clipping/overlap on narrow or unusual viewports */
