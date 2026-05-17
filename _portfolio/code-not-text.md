@@ -5,7 +5,7 @@ collection: portfolio
 link: https://chi-shan0707.github.io/code-not-text/demo/
 redirect_to: https://chi-shan0707.github.io/code-not-text/demo/
 header:
-  teaser: "images/themes/code-not-text-teaser.png"
+  teaser: "themes/code-not-text-teaser.png"
 sidebar:
   - title: "Role"
     image: profile.png
