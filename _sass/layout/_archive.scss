@@ -105,6 +105,46 @@
   .page__meta {
     margin: 0 0 4px;
   }
+
+  .archive__item {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-bottom: 2em;
+
+    @include breakpoint($medium) {
+      flex-direction: row;
+      align-items: flex-start;
+    }
+
+    .archive__item-teaser {
+      flex: 0 0 100%;
+      margin-bottom: 0.5em;
+
+      @include breakpoint($medium) {
+        flex: 0 0 200px;
+        margin-bottom: 0;
+      }
+      
+      img {
+        width: 100%;
+        border-radius: $border-radius;
+      }
+    }
+
+    .archive__item-body {
+      flex: 1;
+    }
+  }
+}
+
+.archive__item-title {
+  a {
+    text-decoration: none !important;
+    &:hover {
+      text-decoration: underline !important;
+    }
+  }
 }
 
 
