@@ -2,8 +2,10 @@
 title: "Code Correctness Is Not in the Text"
 excerpt: "Probing the limits of Chain-of-Thought reasoning traces. A study on domain-dependent measurement invariance in LLMs."
 collection: portfolio
+link: https://chi-shan0707.github.io/code-not-text/demo/
+redirect_to: https://chi-shan0707.github.io/code-not-text/demo/
 header:
-  teaser: "images/themes/code-not-text-teaser.png" # Placeholder or you can provide one
+  teaser: "images/themes/code-not-text-teaser.png"
 sidebar:
   - title: "Role"
     image: profile.png
